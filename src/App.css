@@ -1,0 +1,9 @@
+.accordion-dark .accordion-button {
+  background-color: #343a40; /* dark gray */
+  color: white;
+}
+
+.accordion-dark .accordion-button:not(.collapsed) {
+  background-color: #212529; /* even darker when expanded */
+  color: white;
+}
