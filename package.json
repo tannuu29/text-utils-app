@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tannuu29.github.io/text-utils",
+  "homepage": "https://tannuu29.github.io/text-utils-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
