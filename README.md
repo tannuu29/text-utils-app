@@ -1,12 +1,54 @@
-# React + Vite
+# 📝 TextUtils - React Text Utility App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TextUtils is a simple yet powerful React-based text utility app designed to help you quickly analyze and modify your text. It offers features like word count, character count, removing extra spaces, case conversions, clipboard support, and dark mode — all in a lightweight interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![TextUtils](Screenshot.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🔠 Convert text to UPPERCASE and lowercase
+- 🧹 Remove extra spaces
+- 📋 Copy text to clipboard
+- 🧼 Clear the text area instantly
+- 🧮 Live word and character count
+- 🌗 Light / Dark Mode toggle
+- 📱 Responsive UI using React Bootstrap
+- 🌐 Client-side routing with React Router
+
+---
+
+## 🛠️ Technologies Used
+
+- [React](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [React-Bootstrap](https://react-bootstrap.github.io/)
+- [Vite](https://vitejs.dev/) for blazing-fast build setup
+- [GitHub Pages](https://pages.github.com/) for deployment
+
+---
+
+## 🔗 Live Demo
+[Click here to view the app](https://tannuu29.github.io/text-utils-app/)
+
+---
+
+## 📚 Learning Objective
+This project was created to strengthen React fundamentals, including:
+
+- Functional components
+- State management with hooks
+- Props and component reusability
+- Routing with react-router-dom
+- Theme switching
+- Deployment using gh-pages
+
+---
+
+## Acknowledgements
+- Inspired by React beginner projects and utility tools
+- UI built with React Bootstrap for rapid styling
